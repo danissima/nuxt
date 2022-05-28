@@ -1,4 +1,3 @@
-<!-- Please remove this file from your project -->
 <template>
   <h1>{{ message }}</h1>
 </template>
@@ -9,10 +8,10 @@ interface IData {
 }
 
 export default {
-  name: 'NuxtTutorial',
+  name: 'TheHeader',
   data(): IData {
     return {
-      message: 'Здарова )'
+      message: 'Zdarova )'
     }
   }
 }

@@ -1,5 +1,5 @@
 <template>
-  <Hello />
+  <TheHeader />
 </template>
 
 <script lang="ts">
