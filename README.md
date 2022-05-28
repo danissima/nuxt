@@ -1,5 +1,8 @@
 # learn-nuxt
 
+## Design
+https://www.figma.com/file/zaaVvqoCIMcn700GimBhqP/Online-Book-Store-(Community)?node-id=0%3A1
+
 ## Build Setup
 
 ```bash
